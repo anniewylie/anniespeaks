@@ -63,7 +63,7 @@ disqusShortname = "bilberry-hugo-theme"
   tumblr     = ""
   youtube    = ""
   vimeo      = ""
-  github     = ""
+  github     = "https://github.com/anniewylie"
 
 # don't change anything here
 [taxonomies]
